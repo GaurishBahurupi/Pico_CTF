@@ -1,5 +1,13 @@
 # CTF Walkthrough: GET aHEAD
 
+## Information
+
+- CTF Name: PicoCTF
+- CTF Challenge: GET aHEAD
+- Challenge Category: Web Exploitation
+- Challenge Points: 20
+- PicoCTF 2024
+
 ## Challenge Description
 
 Find the flag being held on this server to get ahead of the competition [http://mercury.picoctf.net:21939/](http://mercury.picoctf.net:21939/).
