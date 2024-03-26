@@ -7,7 +7,7 @@ by Gaurish Bahurupi
 - CTF Challenge: Insp3ct0r
 - Challenge Category: Web Exploitation
 - Challenge Points: 50
-- PicoCTF 2019.
+- PicoCTF 2024.
 
 ## Challenge Description
 
