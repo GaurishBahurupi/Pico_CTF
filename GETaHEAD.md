@@ -20,7 +20,7 @@ The challenge name, i.e., “Get aHEAD,” seems to be a hint as HEAD is one of 
 
 It can be noticed that the Flag value is revealed in the response.
 
-## Solution
+## Writeup
 
 1. Access the provided URL [http://mercury.picoctf.net:21939/](http://mercury.picoctf.net:21939/) in a browser.
 <img width="1440" alt="Screenshot 2024-03-26 at 2 32 17 PM" src="https://github.com/gaurish303/Pico_CTF/assets/139263378/8a41eb6b-c013-4f24-b61e-c34512b1f173">
