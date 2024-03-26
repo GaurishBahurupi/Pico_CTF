@@ -62,7 +62,7 @@ As we can see highlighted in these images we have the flag split into 3 parts, t
 
 **Here is the complete flag:**
 
-**picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}**
+**picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}**
 
 Thank you very much for reading!
 
